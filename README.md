@@ -7,9 +7,9 @@ The dataset includes crime incident reports documented by BPD officers, capturin
 
 ### Key features of the dataset:
 
-Type of incident
-Date and time of occurrence
-Location information
+* Type of incident.
+* Date and time of occurrence.
+* Location information.
 
 ### Content
 
@@ -18,5 +18,5 @@ Records begin in June 14, 2015 and continue to September 3, 2018.
 ### Acknowledgements
 
 This dataset is provided by Analyze Boston and is available on Kaggle:
-[Crimes in Boston Dataset](https://www.kaggle.com/datasets/AnalyzeBoston/crimes-in-boston)
-The most up-to-date version can be found [here.](https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system)
+[Crimes in Boston Dataset](https://www.kaggle.com/datasets/AnalyzeBoston/crimes-in-boston).
+The most up-to-date version can be found [here.](https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system).
